@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @capg84
 - 👀 I’m interested in web application development
-- 🌱 I’m currently learning full stack web development
-- 💞️ I’m looking to collaborate on everything
+- 🌱 I’m looking to collaborate
 - 📫 How to reach me: email: cyprian.gomes@live.co.uk / cg@limitunlimited.com; mobile/WhatsApp: +447545839711
 
 <!---
